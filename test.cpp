@@ -10,7 +10,7 @@ int main()
 	exit(0);
 }
 
-int power(int base, int exponent) 
+int power(float base, int exponent) 
 {
 	return pow(base, exponent);
 }
