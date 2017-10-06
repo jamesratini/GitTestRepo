@@ -2,7 +2,7 @@
 #include <math.h>
 
 using namespace std;
-void power(int base, int exponent);
+void power(float base, int exponent);
 int main()
 {
 	cout << power(2, 10) << endl;
